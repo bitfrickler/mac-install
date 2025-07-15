@@ -1,0 +1,3 @@
+- name: Install bottle python package
+  ansible.builtin.pip:
+    name: bottle

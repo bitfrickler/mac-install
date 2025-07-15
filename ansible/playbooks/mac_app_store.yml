@@ -1,0 +1,6 @@
+- name: Install a list of apps
+  community.general.mas:
+    id:
+      - 409183694 # Keynote
+      - 413857545 # Divvy
+    state: present

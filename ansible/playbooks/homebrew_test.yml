@@ -1,0 +1,9 @@
+---
+- name: Install MacOS apps
+  hosts: localhost
+  become: false
+
+  tasks:
+    - name: Installing apps via Homebrew
+      homebrew_installed_packages:
+        - cheat
