@@ -44,7 +44,7 @@
       - vim
       - dockutil
       - zsh
-      - mas-cli
+      - mas
     install_homebrew_if_missing: false
     # python_modules:
     #   - configparser
