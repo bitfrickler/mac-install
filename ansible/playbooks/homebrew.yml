@@ -15,6 +15,7 @@
       - bettermouse
       - bettertouchtool
       - balenaetcher
+      - appcleaner
       - visual-studio-code
       - vlc
       - dotnet-sdk
@@ -27,6 +28,12 @@
       - microsoft-edge
       - obsidian
       - popclip
+      - unite
+      - alfred
+      - dotnet-sdk
+      - db-browser-for-sqlite
+      - imhex
+      - ghostty
     brew_packages:
       - git
       - go
