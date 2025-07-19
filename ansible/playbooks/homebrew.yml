@@ -36,7 +36,6 @@
       - ghostty
       - bambu-studio
       - autodesk-fusion
-      - enpass
     brew_packages:
       - git
       - go
