@@ -37,6 +37,7 @@
       - bambu-studio
       - autodesk-fusion
       - enpass
+      - alt-tab
     brew_packages:
       - git
       - go
