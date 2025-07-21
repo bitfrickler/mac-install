@@ -38,9 +38,11 @@
       - autodesk-fusion
       - enpass
       - alt-tab
+      - 8ta4/plist/plist
     brew_packages:
       - git
       - go
+      - rustup
       - jq
       - nmap
       - fzf
@@ -50,6 +52,14 @@
       - zsh
       - mas
       - ncdu
+      - sketchybar
+      - sleepwatcher
+      - sqlite
+      - nmap
+      - xz
+      - youtube-dl
+      - yt-dlp
+      - wakeonlan
     install_homebrew_if_missing: false
     # python_modules:
     #   - configparser
